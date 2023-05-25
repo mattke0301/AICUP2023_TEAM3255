@@ -9,6 +9,7 @@ covarep-1.4.2為從covarep官網下載的程式碼，本程式碼可以在 **MAT
 **請注意: test.m請放到./covarep-1.4.2/feature_extraction/的資料夾下**
 
 執行完上述兩個程式後即可提取出音檔對應的.mat檔案  
+如果想要我們已經提取出來的.mat檔案，請參考<https://drive.google.com/drive/folders/1k2OBxKijd7h_hJjNCBypkhyb-fXeS1WS?usp=share_link>
 
 ## 訓練流程
 python版本為3.6，請先創建一個空的環境，其餘的package請執行**pip install -r requirements.txt**  
