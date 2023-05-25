@@ -5,7 +5,8 @@ covarep-1.4.2為從covarep官網下載的程式碼，本程式碼可以在 **MAT
 下載完後，請在MATLAB開啟對應檔案位置(open folder)  
 之後在Command Window分別執行項列兩個程式:  
 1. startup
-2. test(**其中test.m 中的in_dir請修改成要提取特徵的.wav音檔**)  
+2. test(**其中test.m 中的in_dir請修改成要提取特徵的.wav音檔檔案位置**)  
+**請注意: test.m請放到./covarep-1.4.2/feature_extraction/的資料夾下**
 
 執行完上述兩個程式後即可提取出音檔對應的.mat檔案  
 
